@@ -1,0 +1,2 @@
+pdflatex minimal.tex
+
